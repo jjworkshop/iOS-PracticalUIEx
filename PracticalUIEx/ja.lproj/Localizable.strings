@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  PracticalUIEx
+
+  Created by Mitsuhiro Shirai on 2019/03/07.
+  Copyright © 2019年 Mitsuhiro Shirai. All rights reserved.
+*/
+
+"TITLE in English!!" = "日本語のタイトル！！";
+"Entry Sample" = "入力サンプル";
+"List Sample" = "一覧サンプル";
+
+"↓ Close" = "↓ 閉じる";
+
+"Confirm" = "確認";
+"Sure!" = "もちろん！";
+"No" = "いいえ";
+"Yes" = "はい";
+"Cancel" = "キャンセル";
+
+"It is offline." = "オフラインです";
+"Gently from behind me♡" = "やさしく後ろからね♡";
+"Are you eat me?" = "僕をたべちゃうの？";
+"Do you remove this data?" = "データを削除しますか？";

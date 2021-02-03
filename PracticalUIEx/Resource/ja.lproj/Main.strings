@@ -1,0 +1,96 @@
+
+/* Class = "UILabel"; text = "スイッチ-4"; ObjectID = "2al-XF-iBU"; */
+"2al-XF-iBU.text" = "スイッチ-4";
+
+/* Class = "UILabel"; text = "入力テキスト-4"; ObjectID = "3Ep-Ok-Tmw"; */
+"3Ep-Ok-Tmw.text" = "入力テキスト-4";
+
+/* Class = "UILabel"; text = "メモ:"; ObjectID = "83n-1S-Gl7"; */
+"83n-1S-Gl7.text" = "メモ:";
+
+/* Class = "UISegmentedControl"; 9Rz-Zc-Sco.segmentTitles[0] = "いちこめ"; ObjectID = "9Rz-Zc-Sco"; */
+"9Rz-Zc-Sco.segmentTitles[0]" = "いちこめ";
+
+/* Class = "UISegmentedControl"; 9Rz-Zc-Sco.segmentTitles[1] = "にちこめ"; ObjectID = "9Rz-Zc-Sco"; */
+"9Rz-Zc-Sco.segmentTitles[1]" = "にちこめ";
+
+/* Class = "UISegmentedControl"; DhD-fm-8uB.segmentTitles[0] = "いちこめ"; ObjectID = "DhD-fm-8uB"; */
+"DhD-fm-8uB.segmentTitles[0]" = "いちこめ";
+
+/* Class = "UISegmentedControl"; DhD-fm-8uB.segmentTitles[1] = "にちこめ"; ObjectID = "DhD-fm-8uB"; */
+"DhD-fm-8uB.segmentTitles[1]" = "にちこめ";
+
+/* Class = "UILabel"; text = "学習ポイント\n\n・より実践的な入力画面の作成方法\n・より実践的な一覧画面の作成方法\n・共通部分のサブクラス化\n・ソフトキーのハンドリング\n・Toastメッセージの表示\n・多言語化\n\nしっかり勉強するべし！！"; ObjectID = "HC3-hi-xSR"; */
+"HC3-hi-xSR.text" = "学習ポイント\n\n・より実践的な入力画面の作成方法\n・より実践的な一覧画面の作成方法\n・共通部分のサブクラス化\n・ソフトキーのハンドリング\n・Toastメッセージの表示\n・多言語化\n\nしっかり勉強するべし！！";
+
+/* Class = "UILabel"; text = "このようにCell内に複数のUIを入れてもOK!"; ObjectID = "I0a-0m-Y2N"; */
+"I0a-0m-Y2N.text" = "このようにCell内に複数のUIを入れてもOK!";
+
+/* Class = "UILabel"; text = "セグメント-5"; ObjectID = "JiW-nz-B8W"; */
+"JiW-nz-B8W.text" = "セグメント-5";
+
+/* Class = "UILabel"; text = "スイッチ-3"; ObjectID = "NMT-mw-byv"; */
+"NMT-mw-byv.text" = "スイッチ-3";
+
+/* Class = "UILabel"; text = "入力テキスト-5"; ObjectID = "UHW-xb-XPF"; */
+"UHW-xb-XPF.text" = "入力テキスト-5";
+
+/* Class = "UILabel"; text = "Footer なにか必要なら"; ObjectID = "ZoM-ZW-e4i"; */
+"ZoM-ZW-e4i.text" = "Footer なにか必要なら";
+
+/* Class = "UILabel"; text = "入力テキスト-3"; ObjectID = "dU5-aK-dae"; */
+"dU5-aK-dae.text" = "入力テキスト-3";
+
+/* Class = "UILabel"; text = "セグメント-2"; ObjectID = "f13-OY-G18"; */
+"f13-OY-G18.text" = "セグメント-2";
+
+/* Class = "UILabel"; text = "セグメント-1"; ObjectID = "f3g-oE-l6B"; */
+"f3g-oE-l6B.text" = "セグメント-1";
+
+/* Class = "UILabel"; text = "スイッチ-5"; ObjectID = "gIs-Ip-5Ge"; */
+"gIs-Ip-5Ge.text" = "スイッチ-5";
+
+/* Class = "UISegmentedControl"; iHU-HK-e0H.segmentTitles[0] = "いちこめ"; ObjectID = "iHU-HK-e0H"; */
+"iHU-HK-e0H.segmentTitles[0]" = "いちこめ";
+
+/* Class = "UISegmentedControl"; iHU-HK-e0H.segmentTitles[1] = "にちこめ"; ObjectID = "iHU-HK-e0H"; */
+"iHU-HK-e0H.segmentTitles[1]" = "にちこめ";
+
+/* Class = "UILabel"; text = "セグメント-3"; ObjectID = "jeG-ee-f4J"; */
+"jeG-ee-f4J.text" = "セグメント-3";
+
+/* Class = "UILabel"; text = "スイッチ-1"; ObjectID = "lXf-nk-mP5"; */
+"lXf-nk-mP5.text" = "スイッチ-1";
+
+/* Class = "UILabel"; text = "セグメント-4"; ObjectID = "lmx-ok-iQu"; */
+"lmx-ok-iQu.text" = "セグメント-4";
+
+/* Class = "UISegmentedControl"; lq5-tg-ZO5.segmentTitles[0] = "いちこめ"; ObjectID = "lq5-tg-ZO5"; */
+"lq5-tg-ZO5.segmentTitles[0]" = "いちこめ";
+
+/* Class = "UISegmentedControl"; lq5-tg-ZO5.segmentTitles[1] = "にちこめ"; ObjectID = "lq5-tg-ZO5"; */
+"lq5-tg-ZO5.segmentTitles[1]" = "にちこめ";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "n5x-o5-nBk"; */
+"n5x-o5-nBk.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "入力テキスト-1"; ObjectID = "tiM-fo-9c9"; */
+"tiM-fo-9c9.text" = "入力テキスト-1";
+
+/* Class = "UISegmentedControl"; ulW-1B-qBs.segmentTitles[0] = "いちこめ"; ObjectID = "ulW-1B-qBs"; */
+"ulW-1B-qBs.segmentTitles[0]" = "いちこめ";
+
+/* Class = "UISegmentedControl"; ulW-1B-qBs.segmentTitles[1] = "にちこめ"; ObjectID = "ulW-1B-qBs"; */
+"ulW-1B-qBs.segmentTitles[1]" = "にちこめ";
+
+/* Class = "UISegmentedControl"; vL3-sc-cyJ.segmentTitles[0] = "いちこめ"; ObjectID = "vL3-sc-cyJ"; */
+"vL3-sc-cyJ.segmentTitles[0]" = "いちこめ";
+
+/* Class = "UISegmentedControl"; vL3-sc-cyJ.segmentTitles[1] = "にちこめ"; ObjectID = "vL3-sc-cyJ"; */
+"vL3-sc-cyJ.segmentTitles[1]" = "にちこめ";
+
+/* Class = "UILabel"; text = "入力テキスト-2"; ObjectID = "vdY-hO-37B"; */
+"vdY-hO-37B.text" = "入力テキスト-2";
+
+/* Class = "UILabel"; text = "スイッチ-2"; ObjectID = "xwM-nT-z7r"; */
+"xwM-nT-z7r.text" = "スイッチ-2";

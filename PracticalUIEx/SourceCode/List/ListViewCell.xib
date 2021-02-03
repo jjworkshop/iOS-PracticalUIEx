@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="ListCell" id="KGk-i7-Jjw" customClass="ListViewCell" customModule="PracticalUIEx" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="72"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="71.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="302-js-pex">
+                        <rect key="frame" x="4" y="4" width="64" height="64"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="64" id="FVD-bo-Vc7"/>
+                            <constraint firstAttribute="width" secondItem="302-js-pex" secondAttribute="height" multiplier="1:1" id="VCy-tC-hDv"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Article Title" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="r97-qW-PIU">
+                        <rect key="frame" x="76" y="4" width="240" height="21"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <color key="textColor" red="0.096038091610000001" green="0.58924888959999999" blue="0.54505140330000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wcC-aG-r7Z">
+                        <rect key="frame" x="76" y="27" width="240" height="41"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="41" id="n4C-WK-hlv"/>
+                        </constraints>
+                        <string key="text">Comment
+Line - 2</string>
+                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                        <color key="textColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="r97-qW-PIU" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="4" id="Bzn-Ht-jAe"/>
+                    <constraint firstItem="r97-qW-PIU" firstAttribute="leading" secondItem="302-js-pex" secondAttribute="trailing" constant="8" id="NZW-H2-Azs"/>
+                    <constraint firstItem="wcC-aG-r7Z" firstAttribute="top" secondItem="r97-qW-PIU" secondAttribute="bottom" constant="2" id="TcM-rY-Ab8"/>
+                    <constraint firstAttribute="trailing" secondItem="r97-qW-PIU" secondAttribute="trailing" constant="4" id="WHY-Zw-fKv"/>
+                    <constraint firstAttribute="trailing" secondItem="wcC-aG-r7Z" secondAttribute="trailing" constant="4" id="ce7-fj-Fbs"/>
+                    <constraint firstItem="302-js-pex" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="4" id="eTl-h7-fBR"/>
+                    <constraint firstItem="wcC-aG-r7Z" firstAttribute="leading" secondItem="302-js-pex" secondAttribute="trailing" constant="8" id="m2n-t7-TGA"/>
+                    <constraint firstItem="302-js-pex" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="nmd-9I-kgj"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="cellImage" destination="302-js-pex" id="gTI-do-fNU"/>
+                <outlet property="commentLabel" destination="wcC-aG-r7Z" id="kum-Jp-lEl"/>
+                <outlet property="titleLabel" destination="r97-qW-PIU" id="Zta-iC-g5V"/>
+            </connections>
+            <point key="canvasLocation" x="52.799999999999997" y="48.575712143928037"/>
+        </tableViewCell>
+    </objects>
+</document>
